@@ -48,5 +48,5 @@
   <img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/tomcat/tomcat-original.svg" alt="Tomcat" title="Tomcat" width="50" height="50"/>
   <img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="50" height="50"/>
 </p>
-
+</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruben8pereira&show_icons=true&locale=en&layout=compact" alt="ruben8pereira"/></p>
